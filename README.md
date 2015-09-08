@@ -1,3 +1,3 @@
 # git-featured
 
-A very basic application that allows users to email the administrator of the webpage.
+A website where users submit projects so that they can possibly become a daily "featured project". It was completed as an exercise at NSS to become familiar with nodemailer.
